@@ -22,7 +22,7 @@ If you want to know more, this is a list of selected starting points:
 
 Building Redis
 --------------
-
+Hello world!
 Redis can be compiled and used on Linux, OSX, OpenBSD, NetBSD, FreeBSD.
 We support big endian and little endian architectures, and both 32 bit
 and 64 bit systems.
